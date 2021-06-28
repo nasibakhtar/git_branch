@@ -7,6 +7,7 @@ class Simple{
         System.out.println("This is my old-new repo ");
         System.out.println("This is my old-new repo ");
         System.out.println("This is my slave repo ");
+        System.out.println("This is my slave1 repo ");
         
     }  
 } 
